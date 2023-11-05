@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **allyhusseinbaubooa@gmail.com**
 
-- 📄 Know about my experiences [https://ally-resume.vercel.app/](https://ally-resume.vercel.app/)
+- 📄 Know about my experiences <a href="https://ally-resume.vercel.app/">Ally Resume</a> 
 
 - ⚡ Fun fact **I used to play Snake on my Nokia, and now, <br>coding in Python, the snake still follows me.**
 
