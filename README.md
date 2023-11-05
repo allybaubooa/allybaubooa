@@ -1,5 +1,7 @@
 <h1 align="center">Hi Guys👋, I'm Ally Hussein Baubooa</h1>
-<h3 align="center">An enthusiastic Full Stack Developer from Mauritius</h3> <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--twemoji" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="#EA2839" d="M32 5H4a4 4 0 0 0-4 4v2.5h36V9a4 4 0 0 0-4-4z"></path><path fill="#1A206D" d="M0 11.5h36V18H0z"></path><path fill="#FFD500" d="M0 18h36v6.5H0z"></path><path fill="#00A551" d="M0 24.5V27a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-2.5H0z"></path></g></svg>
+<h3 align="center">An enthusiastic Full Stack Developer from Mauritius</h3>
+
+<svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--twemoji" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="#EA2839" d="M32 5H4a4 4 0 0 0-4 4v2.5h36V9a4 4 0 0 0-4-4z"></path><path fill="#1A206D" d="M0 11.5h36V18H0z"></path><path fill="#FFD500" d="M0 18h36v6.5H0z"></path><path fill="#00A551" d="M0 24.5V27a4 4 0 0 0 4 4h28a4 4 0 0 0 4-4v-2.5H0z"></path></g></svg>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
