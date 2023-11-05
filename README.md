@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://ally-resume.vercel.app/](https://ally-resume.vercel.app/)
 
-- ⚡ Fun fact **I used to play Snake on my Nokia, and now, coding in Python, <br>the snake still follows me.**
+- ⚡ Fun fact **I used to play Snake on my Nokia, and now, <br>coding in Python, the snake still follows me.**
 
 
 <h3 align="left">Languages and Tools:</h3>
