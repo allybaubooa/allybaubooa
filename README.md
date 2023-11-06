@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Power BI and Javascript**
 
-- 📫 How to reach me <a href="allyhusseinbaubooa@gmail.com" target="_blank">Ally Baubooa</a> 
+- 📫 How to reach me **allyhusseinbaubooa@gmail.com**
 
 - 📄 Know about my experiences <a href="https://ally-resume.vercel.app/" target="_blank">Ally Resume</a> 
 
