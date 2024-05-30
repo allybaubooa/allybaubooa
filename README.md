@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allybaubooa&label=Profile%20views&color=0e75b6&style=flat" alt="allybaubooa" /> </p>
 
-- 🔭 I’m currently working on a **Flutter Mobile App(Notes App)**
+- 🔭 I’m currently working on a **VUE JS building my Portfolio**
 
-- 🌱 I’m currently learning **Flutter(Dart Language) and C#**
+- 🌱 I’m currently learning **VUE JS and C#**
 
 - 💬 Ask me about **Python, Power BI and Javascript**
 
