@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allybaubooa&label=Profile%20views&color=0e75b6&style=flat" alt="allybaubooa" /> </p>
 
-- 🔭 I’m currently working on a **VUE JS building my Portfolio**
+🔭 I’m currently working on a **VUE JS building my Portfolio**
 
-- 🌱 I’m currently learning **VUE JS and C#**
+🌱 I’m currently learning **VUE JS and C#**
 
-- 💬 Ask me about **Python, Power BI and Javascript**
+💬 Ask me about **Python, Power BI and Javascript**
 
-- 📫 How to reach me **allyhusseinbaubooa@gmail.com**
+📫 How to reach me **allyhusseinbaubooa@gmail.com**
 
-- 📄 Know about my experiences <a href="https://ally-resume.vercel.app/" target="_blank">Ally Resume</a> 
+📄 Know about my experiences <a href="https://ally-resume.vercel.app/" target="_blank">Ally Resume</a> 
 
-- ⚡ Fun fact **I used to play Snake on my Nokia, and now, coding in Python, the snake still follows me.**
+⚡ Fun fact **I used to play Snake on my Nokia, and now, coding in Python, the snake still follows me.**
 
 
 <h3 align="left">Languages and Tools:</h3>
