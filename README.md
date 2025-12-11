@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allybaubooa&label=Profile%20views&color=0e75b6&style=flat" alt="allybaubooa" /> </p>
 
-🔭 I’m currently working on a **VUE JS building my Portfolio**
+🔭 I’m currently working on a **Webapp Based on NUXT JS.**
 
-🌱 I’m currently learning **VUE JS and C#**
+🌱 I’m currently learning **NUXT JS and ML**
 
 💬 Ask me about **Python, Power BI and Javascript**
 
